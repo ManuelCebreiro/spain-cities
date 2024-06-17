@@ -1,0 +1,6 @@
+node_modules
+dist
+test.js
+*.log
+scripts
+.vscode/settings.json

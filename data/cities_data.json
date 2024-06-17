@@ -1,0 +1,149 @@
+[
+    {
+        "community": "Andalucía",
+        "provinces": [
+            {"name": "Almería","cities": ["Almería", "El Ejido", "Roquetas de Mar"]},
+            {"name": "Cádiz","cities": ["Cádiz", "Jerez de la Frontera", "Algeciras"]},
+            {"name": "Córdoba","cities": ["Córdoba", "Lucena", "Puente Genil"]},
+            {"name": "Granada","cities": ["Granada", "Motril", "Almuñécar"]},
+            {"name": "Huelva","cities": ["Huelva", "Lepe", "Ayamonte"]},
+            {"name": "Jaén","cities": ["Jaén", "Linares", "Andújar"]},
+            {"name": "Málaga","cities": ["Málaga", "Marbella", "Mijas"]},
+            {"name": "Sevilla","cities": ["Sevilla", "Dos Hermanas", "Alcalá de Guadaíra"]}
+        ]
+    },
+    {
+        "community": "Aragón",
+        "provinces": [
+            {"name": "Huesca","cities": ["Huesca", "Barbastro", "Monzón"]},
+            {"name": "Teruel","cities": ["Teruel", "Alcañiz", "Andorra"]},
+            {"name": "Zaragoza","cities": ["Zaragoza", "Calatayud", "Ejea de los Caballeros"]}
+        ]
+    },
+    {
+        "community": "Asturias, Principado de",
+        "provinces": [
+            {"name": "Asturias","cities": ["Oviedo", "Gijón", "Avilés"]}
+        ]
+    },
+    {
+        "community": "Islas Baleares",
+        "provinces": [
+            {"name": "Islas Baleares","cities": ["Palma de Mallorca", "Ibiza", "Manacor"]}
+        ]
+    },
+    {
+        "community": "Canarias",
+        "provinces": [
+            {"name": "Las Palmas","cities": ["Las Palmas de Gran Canaria", "Telde", "Arrecife"]},
+            {"name": "Santa Cruz de Tenerife","cities": ["Santa Cruz de Tenerife", "San Cristóbal de La Laguna", "Arona"]}
+        ]
+    },
+    {
+        "community": "Cantabria",
+        "provinces": [
+            {"name": "Cantabria","cities": ["Santander", "Torrelavega", "Castro Urdiales"]}
+        ]
+    },
+    {
+        "community": "Castilla y León",
+        "provinces": [
+            {"name": "Ávila","cities": ["Ávila", "Arévalo", "El Tiemblo"]},
+            {"name": "Burgos","cities": ["Burgos", "Miranda de Ebro", "Aranda de Duero"]},
+            {"name": "León","cities": ["León", "Ponferrada", "San Andrés del Rabanedo"]},
+            {"name": "Palencia","cities": ["Palencia", "Aguilar de Campoo", "Guardo"]},
+            {"name": "Salamanca","cities": ["Salamanca", "Béjar", "Ciudad Rodrigo"]},
+            {"name": "Segovia","cities": ["Segovia", "Cuéllar", "San Ildefonso"]},
+            {"name": "Soria","cities": ["Soria", "Almazán", "Ólvega"]},
+            {"name": "Valladolid","cities": ["Valladolid", "Medina del Campo", "Laguna de Duero"]},
+            {"name": "Zamora","cities": ["Zamora", "Benavente", "Toro"]}
+        ]
+    },
+    {
+        "community": "Castilla - La Mancha",
+        "provinces": [
+            {"name": "Albacete","cities": ["Albacete", "Hellín", "Villarrobledo"]},
+            {"name": "Ciudad Real","cities": ["Ciudad Real", "Puertollano", "Tomelloso"]},
+            {"name": "Cuenca","cities": ["Cuenca", "Tarancón", "San Clemente"]},
+            {"name": "Guadalajara","cities": ["Guadalajara", "Azuqueca de Henares", "Sigüenza"]},
+            {"name": "Toledo","cities": ["Toledo", "Talavera de la Reina", "Illescas"]}
+        ]
+    },
+    {
+        "community": "Cataluña",
+        "provinces": [
+            {"name": "Barcelona","cities": ["Barcelona", "Hospitalet de Llobregat", "Badalona"]},
+            {"name": "Girona","cities": ["Girona", "Figueres", "Blanes"]},
+            {"name": "Lleida","cities": ["Lleida", "Balaguer", "Tàrrega"]},
+            {"name": "Tarragona","cities": ["Tarragona", "Reus", "Salou"]}
+        ]
+    },
+    {
+        "community": "Comunitat Valenciana",
+        "provinces": [
+            {"name": "Alicante","cities": ["Alicante", "Elche", "Benidorm"]},
+            {"name": "Castellón","cities": ["Castellón de la Plana", "Villarreal", "Benicàssim"]},
+            {"name": "Valencia","cities": ["Valencia", "Gandía", "Torrent"]}
+        ]
+    },
+    {
+        "community": "Extremadura",
+        "provinces": [
+            {"name": "Badajoz","cities": ["Badajoz", "Mérida", "Don Benito"]},
+            {"name": "Cáceres","cities": ["Cáceres", "Plasencia", "Navalmoral de la Mata"]}
+        ]
+    },
+    {
+        "community": "Madrid, Comunidad de",
+        "provinces": [
+            {"name": "Madrid","cities": ["Madrid", "Alcalá de Henares", "Móstoles"]}
+        ]
+    },
+    {
+        "community": "Murcia, Región de",
+        "provinces": [
+            {"name": "Murcia","cities": ["Murcia", "Cartagena", "Lorca"]}
+        ]
+    },
+    {
+        "community": "Navarra, Comunidad Foral de",
+        "provinces": [
+            {"name": "Navarra","cities": ["Pamplona", "Tudela", "Barañáin"]}
+        ]
+    },
+    {
+        "community": "País Vasco",
+        "provinces": [
+            {"name": "Álava","cities": ["Vitoria-Gasteiz", "Llodio", "Amurrio"]},
+            {"name": "Guipúzcoa","cities": ["San Sebastián", "Irún", "Rentería"]},
+            {"name": "Vizcaya","cities": ["Bilbao", "Baracaldo", "Getxo"]}
+        ]
+    },
+    {
+        "community": "Rioja, La",
+        "provinces": [
+            {"name": "La Rioja","cities": ["Logroño", "Calahorra", "Haro"]}
+        ]
+    },
+    {
+        "community": "Ceuta",
+        "provinces": [
+            {"name": "Ceuta","cities": ["Ceuta"]}
+        ]
+    },
+    {
+        "community": "Melilla",
+        "provinces": [
+            {"name": "Melilla","cities": ["Melilla"]}
+        ]
+    },
+    {
+        "community": "Galicia",
+        "provinces": [
+            {"name": "A Coruña","cities": [ "A Baña", "A Capela", "A Coruña", "Abegondo", "Ames", "Aranga", "Ares", "Arteixo", "Arzúa", "As Pontes de García Rodríguez", "As Somozas", "As Neves", "As Pontes de García Rodríguez", "As Somozas", "Bazar", "Begonte", "Bergondo", "Betanzos", "Boimorto", "Boiro", "Boqueixón", "Brión", "Cabana de Bergantiños", "Cabanas", "Camariñas", "Cambre", "Carballo", "Cariño", "Carnota", "Carral", "Cedeira", "Cee", "Cerceda", "Cerdido", "Coirós", "Corcubión", "Coristanco", "Coruña, A", "Culleredo", "Curtis", "Dodro", "Dumbría", "Fene", "Ferrol", "Fisterra", "Frades", "Irixoa", "Laracha, A", "Laxe", "Lousame", "Malpica de Bergantiños", "Mañón", "Mazaricos", "Melide", "Mesía", "Miño", "Moeche", "Mugardos", "Muros", "Muxía", "Narón", "Neda", "Negreira", "Noia", "Oleiros", "Ordes", "Oroso", "Ortigueira", "Outes", "Oza dos Ríos", "Paderne", "Padrón", "Pino, O", "Pobra do Caramiñal, A", "Ponteceso", "Pontedeume", "Porto do Son", "Rianxo", "Ribeira", "Rois", "Sada", "San Sadurniño", "Santa Comba", "Santiago de Compostela", "Santiso", "Sobrado", "Somozas, As", "Teo", "Toques", "Tordoia", "Touro"]},
+            {"name": "Lugo","cities": ["Abadín", "Alfoz", "Antas de Ulla", "Baleira", "Baralla", "Barreiros", "Becerreá", "Begonte", "Bóveda", "Burela", "Carballedo", "Castro de Rei", "Castroverde", "Cervantes", "Cervo", "Chantada", "Corgo, O", "Cospeito", "Folgoso do Courel", "Fonsagrada, A", "Foz", "Friol", "Guitiriz", "Guntín", "Incio, O", "Láncara", "Lourenzá", "Lugo", "Meira", "Mondoñedo", "Monforte de Lemos", "Monterroso", "Muras", "Navia de Suarna", "Negueira de Muñiz", "Nogais, As", "Ourol", "Outeiro de Rei", "Palas de Rei", "Pantón", "Paradela", "Páramo, O", "Pastoriza, A", "Pedrafita do Cebreiro", "Pobra do Brollón, A", "Pol", "Pontenova, A", "Portomarín", "Quiroga", "Rábade", "Ribadeo", "Ribas de Sil", "Ribeira de Piquín", "Riotorto", "Samos", "Sarria", "Saviñao, O", "Sober", "Taboada", "Trabada", "Triacastela", "Valadouro, O", "Vicedo, O", "Vilalba", "Viveiro", "Xermade"]},
+            {"name": "Ourense","cities": [ "Allariz", "Amoeiro", "Arnoia, A", "Avión", "Baltar", "Bande", "Baños de Molgas", "Barbadás", "Barco de Valdeorras, O", "Beade", "Beariz", "Blancos, Os", "Boborás", "Bola, A", "Bolo, O", "Calvos de Randín", "Carballeda de Avia", "Carballeda de Valdeorras", "Carballiño, O", "Cartelle", "Castrelo de Miño", "Castrelo do Val", "Castro Caldelas", "Celanova", "Cenlle", "Chandrexa de Queixa", "Coles", "Cortegada", "Cualedro", "Entrimo", "Esgos", "Gomesende", "Gudiña, A", "Irixo, O", "Larouco", "Laza", "Leiro", "Lobeira", "Lobios", "Maceda", "Manzaneda", "Maside", "Melón", "Merca, A", "Mezquita, A", "Montederramo", "Monterrei", "Muíños", "Nogueira de Ramuín", "Oímbra", "Ourense", "Paderne de Allariz", "Padrenda", "Parada de Sil", "Pereiro de Aguiar, O", "Peroxa, A", "Petín", "Piñor", "Pobra de Trives, A", "Pontedeva", "Porqueira", "Punxín", "Quintela de Leirado", "Rairiz de Veiga", "Ramirás", "Ribadavia", "Riós", "Rúa, A", "Rubiá", "San Amaro", "San Cibrao das Viñas", "San Cristovo de Cea", "San Xoán de Río", "Sandiás", "Sarreaus", "Taboadela", "Teixeira, A", "Toén", "Trasmiras", "Veiga, A", "Verea", "Verín", "Viana do Bolo", "Vilamarín", "Vilamartín de Valdeorras", "Vilar de Barrio", "Vilar de Santos", "Vilardevós", "Vilariño de Conso", "Xinzo de Limia", "Xunqueira de Ambía", "Xunqueira de Espadanedo"]},
+            {"name": "Pontevedra","cities": [  "Agolada", "Arbo", "Baiona", "Barro", "Bueu", "Caldas de Reis", "Cambados", "Campo Lameiro", "Cangas", "Cañiza, A", "Catoira", "Cerdedo-Cotobade", "Covelo", "Crecente", "Cuntis", "Dozón", "Estrada, A", "Forcarei", "Fornelos de Montes", "Gondomar", "Grove, O", "Guarda, A", "Illa de Arousa, A", "Lalín", "Lama, A", "Marín", "Meaño", "Meis", "Moaña", "Mondariz", "Mondariz-Balneario", "Moraña", "Mos", "Neves, As", "Nigrán", "Oia", "Pazos de Borbén", "Poio", "Ponte Caldelas", "Ponteareas", "Pontecesures", "Pontevedra", "Porriño, O", "Portas", "Redondela", "Ribadumia", "Rodeiro", "Rosal, O", "Salceda de Caselas", "Salvaterra de Miño", "Sanxenxo", "Silleda", "Soutomaior", "Tomiño", "Tui", "Valga", "Vigo", "Vila de Cruces", "Vilaboa", "Vilagarcía de Arousa",  "Vilanova de Arousa"]}
+        ]
+    }
+]

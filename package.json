@@ -1,0 +1,17 @@
+{
+  "name": "spain-cities",
+  "version": "1.0.0",
+  "description": "Ciudades de España, por provincia, y comunidad. Perfecto para tus formularios.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": ["spain","spanish","spanish-cities","spanish-cities-info","cities","provinces","search","range","cities-in-range","España", "ciudades", "informacion","informacion de ciudades de españa","buscar ciudades de españa por rango","buscar ciudades por comunidad"],
+  "author": "Manuel Cebreiro",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.14.2",
+    "typescript": "^5.4.5"
+  }
+}
