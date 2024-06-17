@@ -1,5 +1,8 @@
 # Changelog
 
+## [1.0.4] - 2024-06-17
+- Ciudades añadidas en, Navarra, Murcia, Madrid, Cáceres, Badajoz, Valencia, Castellón
+
 ## [1.0.3] - 2024-06-17
 - Cambio en el Readme. 
 - Cambio en el package. 
