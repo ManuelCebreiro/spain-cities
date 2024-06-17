@@ -7,6 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ManuelCebreiro/spain-cities.git"
+  },
   "keywords": ["spain","spanish","spanish-cities","spanish-cities-info","cities","provinces","search","range","cities-in-range","España", "ciudades", "informacion","informacion de ciudades de españa","buscar ciudades de españa por rango","buscar ciudades por comunidad"],
   "author": "Manuel Cebreiro",
   "license": "ISC",
