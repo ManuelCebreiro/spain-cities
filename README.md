@@ -18,10 +18,10 @@ Esta librería proporciona todas las ciuadades de España, en formato simple par
 - **Obtener todas las ciudades de España:** Puedes obtener una lista completa de todas las ciudades disponibles en España.
 - **Obtener todas las ciudades por Comunidad:** Proporciona todas las ciudades de una Comunidad escogida.
 - **Obtener todas las ciudades por Provincia:** Proporciona todas las ciudades de una provincia escogida.
-- 
+  
 ## Instalación
 
-Puedes instalar esta librearía utilizando npm:
+Puedes instalar esta librería utilizando npm:
 
 **npm install spain-cities**
 
