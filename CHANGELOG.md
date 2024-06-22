@@ -1,5 +1,8 @@
 # Changelog
 
+## [1.0.6] - 2024-06-17
+- Eliminar ciudades repetidas
+
 ## [1.0.5] - 2024-06-17
 - Ciudades añadidas en, Alicante, Tarragona, Lleida, Girona, Barcelona, Toledo, Guadalajara, Cuenca, Ciudad Real, Albacete, (toda la provincia de Castilla y León, Cantabria, Canarias, Islas Baleares, Asturias, Aragón)
 

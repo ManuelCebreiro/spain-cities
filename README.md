@@ -1,4 +1,4 @@
-# spain-cities
+# Ciudades de España
 
 Esta librería proporciona todas las ciuadades de España, en formato simple para poder usarlo en tus formularios.
 
